@@ -14,14 +14,12 @@ namespace FindMinimumInRotatedSortedArray
 
             int start = 0;
             int end = num.Length - 1;
-            /*            Console.WriteLine("num[start] is " + num[start]);*/
+
             while (start + 1 < end)
             {
 
                 int mid = start + (end - start) / 2;
-                /*                Console.WriteLine("num[start] is " + num[start]);
-                                Console.WriteLine("num[mid] is " + num[mid]);
-                                Console.WriteLine("num[end] is " + num[end]);*/
+
                 if (num[start] < num[end])
                 {
                     end = mid;
@@ -35,8 +33,7 @@ namespace FindMinimumInRotatedSortedArray
                     end = mid;
                 }
             }
-            /*            Console.WriteLine("num[start] is " + num[start]);
-                        Console.WriteLine("num[end] is " + num[end]);*/
+
             if (num[start] < num[end])
             {
                 return num[start];
