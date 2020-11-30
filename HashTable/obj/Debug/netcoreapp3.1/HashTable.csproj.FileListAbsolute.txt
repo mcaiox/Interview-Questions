@@ -1,0 +1,13 @@
+C:\Users\Chin\source\repos\HashTable\obj\Debug\netcoreapp3.1\HashTable.csprojAssemblyReference.cache
+C:\Users\Chin\source\repos\HashTable\obj\Debug\netcoreapp3.1\HashTable.AssemblyInfoInputs.cache
+C:\Users\Chin\source\repos\HashTable\obj\Debug\netcoreapp3.1\HashTable.AssemblyInfo.cs
+C:\Users\Chin\source\repos\HashTable\obj\Debug\netcoreapp3.1\HashTable.csproj.CoreCompileInputs.cache
+C:\Users\Chin\source\repos\HashTable\bin\Debug\netcoreapp3.1\HashTable.exe
+C:\Users\Chin\source\repos\HashTable\bin\Debug\netcoreapp3.1\HashTable.deps.json
+C:\Users\Chin\source\repos\HashTable\bin\Debug\netcoreapp3.1\HashTable.runtimeconfig.json
+C:\Users\Chin\source\repos\HashTable\bin\Debug\netcoreapp3.1\HashTable.runtimeconfig.dev.json
+C:\Users\Chin\source\repos\HashTable\bin\Debug\netcoreapp3.1\HashTable.dll
+C:\Users\Chin\source\repos\HashTable\bin\Debug\netcoreapp3.1\HashTable.pdb
+C:\Users\Chin\source\repos\HashTable\obj\Debug\netcoreapp3.1\HashTable.dll
+C:\Users\Chin\source\repos\HashTable\obj\Debug\netcoreapp3.1\HashTable.pdb
+C:\Users\Chin\source\repos\HashTable\obj\Debug\netcoreapp3.1\HashTable.genruntimeconfig.cache
