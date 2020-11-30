@@ -14,14 +14,14 @@ namespace HashTable
 
             //Console.WriteLine("Hello World!");
             userInfoHash = new Hashtable();
-            Dictionary<int, string> myDictionary = new Dictionary<int, string>();
+            Dictionary<int, string> userInfoDict = new Dictionary<int, string>();
 
 
             //Adding
             for (int i = 0; i < 10; i++)
             {
                 userInfoHash.Add(i, "user" + i);
-                myDictionary.Add(i, "user" + i);
+                userInfoDict.Add(i, "user" + i);
             }
 
             //Removing
@@ -43,7 +43,7 @@ namespace HashTable
                 Console.WriteLine("Key: " + entry.Key + " => Value: " + entry.Value);
             }
 
-            foreach (KeyValuePair<int, string> element in myDictionary)
+            foreach (KeyValuePair<int, string> element in userInfoDict)
             {
                 Console.WriteLine("Key:- {0} and Value:- {1}",
                                   element.Key, element.Value);
