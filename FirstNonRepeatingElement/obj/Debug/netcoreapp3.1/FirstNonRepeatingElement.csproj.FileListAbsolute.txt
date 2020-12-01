@@ -1,0 +1,13 @@
+C:\Users\Chin\Desktop\Interview-Questions\FirstNonRepeatingElement\bin\Debug\netcoreapp3.1\FirstNonRepeatingElement.exe
+C:\Users\Chin\Desktop\Interview-Questions\FirstNonRepeatingElement\bin\Debug\netcoreapp3.1\FirstNonRepeatingElement.deps.json
+C:\Users\Chin\Desktop\Interview-Questions\FirstNonRepeatingElement\bin\Debug\netcoreapp3.1\FirstNonRepeatingElement.runtimeconfig.json
+C:\Users\Chin\Desktop\Interview-Questions\FirstNonRepeatingElement\bin\Debug\netcoreapp3.1\FirstNonRepeatingElement.runtimeconfig.dev.json
+C:\Users\Chin\Desktop\Interview-Questions\FirstNonRepeatingElement\bin\Debug\netcoreapp3.1\FirstNonRepeatingElement.dll
+C:\Users\Chin\Desktop\Interview-Questions\FirstNonRepeatingElement\bin\Debug\netcoreapp3.1\FirstNonRepeatingElement.pdb
+C:\Users\Chin\Desktop\Interview-Questions\FirstNonRepeatingElement\obj\Debug\netcoreapp3.1\FirstNonRepeatingElement.csprojAssemblyReference.cache
+C:\Users\Chin\Desktop\Interview-Questions\FirstNonRepeatingElement\obj\Debug\netcoreapp3.1\FirstNonRepeatingElement.AssemblyInfoInputs.cache
+C:\Users\Chin\Desktop\Interview-Questions\FirstNonRepeatingElement\obj\Debug\netcoreapp3.1\FirstNonRepeatingElement.AssemblyInfo.cs
+C:\Users\Chin\Desktop\Interview-Questions\FirstNonRepeatingElement\obj\Debug\netcoreapp3.1\FirstNonRepeatingElement.csproj.CoreCompileInputs.cache
+C:\Users\Chin\Desktop\Interview-Questions\FirstNonRepeatingElement\obj\Debug\netcoreapp3.1\FirstNonRepeatingElement.dll
+C:\Users\Chin\Desktop\Interview-Questions\FirstNonRepeatingElement\obj\Debug\netcoreapp3.1\FirstNonRepeatingElement.pdb
+C:\Users\Chin\Desktop\Interview-Questions\FirstNonRepeatingElement\obj\Debug\netcoreapp3.1\FirstNonRepeatingElement.genruntimeconfig.cache
